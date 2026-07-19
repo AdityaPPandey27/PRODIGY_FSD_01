@@ -353,34 +353,23 @@ Protected Routes Accessible
 
 ---
 
-# 🎨 Screenshots
+## 📸 Screenshots
 
-Add your screenshots here.
+### Login Page
 
-### Login
+![Login Page](screenshots/login.png)
 
-```
-/screenshots/login.png
-```
+### Register Page
 
-### Register
-
-```
-/screenshots/register.png
-```
+![Register Page](screenshots/register.png)
 
 ### Dashboard
 
-```
-/screenshots/dashboard.png
-```
+![Dashboard](screenshots/dashboard.png)
 
 ### Dark Mode
 
-```
-/screenshots/darkmode.png
-```
-
+![Dark Mode](screenshots/dark-mode.png)
 ---
 
 # 🚀 Future Improvements
@@ -437,11 +426,10 @@ This project is licensed under the MIT License.
 
 **Aditya Pratap Pandey**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/AdityaPPandey27
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn: https://www.linkedin.com/in/aditya-pratap-pandey-875b36273/
 
-Email: your-email@example.com
 
 ---
 
